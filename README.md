@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Marzooklathief](https://github.com/Marzooklathief)
 
-- 📝 I regularly write articles on [Betterment of myself, poverty, Remains of me](https://medium.com/@Marzooklathief)
-
 - 💬 Ask me about **Machine learning model development and algorithms**
 
 - 📫 How to reach me: **a10marzooknm@gmail.com**
